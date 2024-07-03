@@ -1,0 +1,7 @@
+pyrealsense2
+mediapipe
+opencv-python
+scipy
+pandas
+adam-sim
+matplotlib
